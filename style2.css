@@ -1,8 +1,14 @@
 h1{
     background-color: red;
+<<<<<<< HEAD
 }
 
 *{
     box-sizing: border-box;
+=======
+
+}
+*{
+>>>>>>> about
     margin: 0;
 }
